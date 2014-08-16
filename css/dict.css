@@ -1,0 +1,31 @@
+.gre-highlight {
+  background-color: rgb(201, 255, 202);;
+}
+
+#dict-helper {
+
+  display: none;
+
+  position: fixed;
+  opacity: 0.90;
+  background-color: rgb(243, 215, 174);
+  width: 90%;
+
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  font-size: 1.4em;
+
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+
+  line-height: 26px;
+  font-size: 22px;
+  z-index: 999;
+}
+
+#dict-helper a:link {
+  color: #1E52B3;
+}
